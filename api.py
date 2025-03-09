@@ -93,7 +93,7 @@ class Book(Resource):
         all_books = BookModel.query.all()
         return all_books
 
-api.add_resource(Book,'/api/admin/<int:id>')
+api.add_resource(Book,'/api/admin/book/<int:id>')
 
 @app.route('/api/admin/users', methods=['GET'])
 def get_users():
