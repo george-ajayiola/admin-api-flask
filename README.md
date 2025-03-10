@@ -1,5 +1,5 @@
-#Admin API
+# Admin API
 
 ![Deployment Architecture](img/archi.png)
 
-###Deployment Architecture
+### Deployment Architecture
