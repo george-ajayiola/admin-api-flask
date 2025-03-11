@@ -2,12 +2,14 @@
 
 ![Deployment Architecture](img/archi.png)
 
-### Deployment Architecture
+> **Figure 1:** Deployment Architecture
+
+
 
 
 ![alt text](image-1.png)
 
-### POC 1
+> **Figure 2:** POC ECS services 
 
 ![alt text](image.png)
-### POC 2
+> **Figure 3:** POC Application load balancer with path based routing 
