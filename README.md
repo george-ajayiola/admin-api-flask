@@ -5,9 +5,9 @@
 ### Deployment Architecture
 
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 ### POC 1
 
-![alt text](image.png)
+![alt text](img/image.png)
 ### POC 2
